@@ -1,1 +1,2 @@
-# mystery-rooms
+# Mystery Rooms
+
